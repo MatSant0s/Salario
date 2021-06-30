@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/imagenes">
+        <file>salario/salario.png</file>
+        <file>salario/archivos.png</file>
+        <file>salario/disquete.png</file>
+        <file>salario/cerrar-sesion.png</file>
+        <file>salario/llaves.png</file>
+        <file>salario/exclamacion.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>salario/Nuevo.png</file>
+        <file>nuevo.qrc</file>
+    </qresource>
+</RCC>

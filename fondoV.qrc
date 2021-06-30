@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/fondoV">
+        <file>ventana/ventana.jpg</file>
+    </qresource>
+</RCC>
